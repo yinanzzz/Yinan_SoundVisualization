@@ -1,0 +1,24 @@
+<nearThreshold>
+    <val_0>2100</val_0>
+</nearThreshold>
+<farThreshold>
+    <val_0>2138.89</val_0>
+</farThreshold>
+<contourX>
+    <val_0>-100</val_0>
+</contourX>
+<contourY>
+    <val_0>90</val_0>
+</contourY>
+<scaleX>
+    <val_0>333.333</val_0>
+</scaleX>
+<scaleY>
+    <val_0>286.667</val_0>
+</scaleY>
+<nearWhite>
+    <val_0>1</val_0>
+</nearWhite>
+<threshold>
+    <val_0>0</val_0>
+</threshold>
